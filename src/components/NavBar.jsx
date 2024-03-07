@@ -7,12 +7,12 @@ function BasicExample() {
     <Navbar expand="lg">
       <Container>
         <div className="navbar">
-          <Nav.Link href="#inicio" className="item">
-            Inicio
-          </Nav.Link>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
+              <Nav.Link href="#inicio" className="item">
+                Inicio
+              </Nav.Link>
               <Nav.Link href="#proyectos" className="item">
                 Proyectos
               </Nav.Link>
