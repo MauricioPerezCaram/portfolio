@@ -27,6 +27,11 @@ function BasicExample() {
               </Nav.Link>
             </Nav>
           </Navbar.Collapse>
+          <div className="banderitas">
+            <img src="es.png" />
+
+            <img src="gb.png" />
+          </div>
         </div>
       </Container>
     </Navbar>

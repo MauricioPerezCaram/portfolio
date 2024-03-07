@@ -1,11 +1,11 @@
 const Proyetos = () => {
   return (
     <div id="proyectos">
-      <h2 className="tituloproyectos">Proyectos</h2>
+      <h2 className="titulos">Proyectos</h2>
       <div className="proyecto-container">
         <div className="proyecto-card">
           <img
-            src="../../public/Apple Store Mendoza.png"
+            src="/Apple Store Mendoza.png"
             alt="Apple Store Mendoza"
             className="proyecto-img"
           />
@@ -27,8 +27,8 @@ const Proyetos = () => {
         </div>
         <div className="proyecto-card">
           <img
-            src="../../public/weatherapp.png"
-            alt="Apple Store Mendoza"
+            src="/weatherapp.png"
+            alt="weather app"
             className="proyecto-img"
           />
           <h3 className="proyecto-title">Weather App</h3>
@@ -41,18 +41,14 @@ const Proyetos = () => {
           </p>
           <a
             target="_blank"
-            href="https://weather-app-phi-hazel.vercel.app/" // Agrega la URL correcta para "Visitar el sitio"
+            href="https://weather-app-phi-hazel.vercel.app/"
             className="proyecto-link"
           >
             Visitar el sitio
           </a>
         </div>
         <div className="proyecto-card">
-          <img
-            src="../../public/snake.png"
-            alt="snake"
-            className="proyecto-img"
-          />
+          <img src="/snake.png" alt="snake" className="proyecto-img" />
           <h3 className="proyecto-title">Snake</h3>
           <p className="proyecto-description">
             Una versión moderna y atractiva del clásico juego Snake utilizando
@@ -70,7 +66,7 @@ const Proyetos = () => {
         </div>
         <div className="proyecto-card">
           <img
-            src="../../public/anotadorgastos.png"
+            src="/anotadorgastos.png"
             alt="anotador gastos"
             className="proyecto-img"
           />
@@ -92,11 +88,7 @@ const Proyetos = () => {
         </div>
 
         <div className="proyecto-card">
-          <img
-            src="../../public/conversor.png"
-            alt="Apple Store Mendoza"
-            className="proyecto-img"
-          />
+          <img src="/conversor.png" alt="conversor" className="proyecto-img" />
           <h3 className="proyecto-title">Conversor de monedas</h3>
           <p className="proyecto-description">
             Aplicación para dispositivos móviles que permite la conversión de
@@ -113,12 +105,8 @@ const Proyetos = () => {
           </a>
         </div>
         <div className="proyecto-card">
-          <img
-            src="../../public/to do app.png"
-            alt="Apple Store Mendoza"
-            className="proyecto-img"
-          />
-          <h3 className="proyecto-title">To do app</h3>
+          <img src="/to do app.png" alt="to do app" className="proyecto-img" />
+          <h3 className="proyecto-title">To Do App</h3>
           <p className="proyecto-description">
             Aplicación clásica de lista de tareas (To-Do) utilizando React y
             Local Storage. Esta aplicación te permite gestionar tus tareas
