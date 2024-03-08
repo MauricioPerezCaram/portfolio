@@ -38,13 +38,13 @@ const Contacto = () => {
         </div>
         <div className="githublinkedin">
           <div className="redes">
-            <a href="www.github.com/mauricioperezcaram" target="_blank">
+            <a href="https://github.com/MauricioPerezCaram" target="_blank">
               Visita mi Github
             </a>
             <img src="/github.svg" alt="logo github" className="logocontacto" />
           </div>
           <div className="redes">
-            <a href="www.linkedin.com/mauricioperezcaram" target="_blank">
+            <a href="https://linkedin.com/MauricioPerezCaram" target="_blank">
               Visita mi LinkedIn
             </a>
             <img
