@@ -33,17 +33,22 @@ const Contacto = () => {
             <input type="email" name="user_email" required />
             <label>Mensaje</label>
             <textarea name="message" required />
-            <input type="submit" value="Enviar" />
+            <input className="proyecto-link" type="submit" value="Enviar" />
           </form>
         </div>
         <div className="githublinkedin">
           <div className="redes">
-            <a href="">Visita mi Github</a>
+            <a href="www.github.com/mauricioperezcaram" target="_blank">
+              Visita mi Github
+            </a>
             <img src="/github.svg" alt="logo github" className="logocontacto" />
           </div>
           <div className="redes">
-            <a href="">Visita mi LinkedIn</a>
+            <a href="www.linkedin.com/mauricioperezcaram" target="_blank">
+              Visita mi LinkedIn
+            </a>
             <img
+              href="www.github.com/mauricioperezcaram"
               src="/linkedin.png"
               alt="logo linkedin"
               className="logocontacto"
