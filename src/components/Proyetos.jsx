@@ -1,6 +1,6 @@
 const Proyetos = () => {
   return (
-    <div id="proyectos">
+    <div id="proyectos" className="contenedor">
       <h2 className="titulos">Proyectos</h2>
       <div className="proyecto-container">
         <div className="proyecto-card">
@@ -22,7 +22,14 @@ const Proyetos = () => {
             href="https://entrega-final-react-perez-caram.vercel.app/"
             className="proyecto-link"
           >
-            Visitar el sitio
+            Visitar sitio
+          </a>
+          <a
+            target="_blank"
+            href="https://github.com/MauricioPerezCaram/EntregaFinalReactPerezCaram"
+            className="proyecto-link"
+          >
+            Visitar repositorio
           </a>
         </div>
         <div className="proyecto-card">
@@ -44,7 +51,14 @@ const Proyetos = () => {
             href="https://weather-app-phi-hazel.vercel.app/"
             className="proyecto-link"
           >
-            Visitar el sitio
+            Visitar sitio
+          </a>
+          <a
+            target="_blank"
+            href="https://github.com/MauricioPerezCaram/Weather-App"
+            className="proyecto-link"
+          >
+            Visitar repositorio
           </a>
         </div>
         <div className="proyecto-card">
@@ -61,7 +75,14 @@ const Proyetos = () => {
             href="https://snake-game-mpc.vercel.app/"
             className="proyecto-link"
           >
-            Visitar el sitio
+            Visitar sitio
+          </a>
+          <a
+            target="_blank"
+            href="https://github.com/MauricioPerezCaram/snake"
+            className="proyecto-link"
+          >
+            Visitar repositorio
           </a>
         </div>
         <div className="proyecto-card">
@@ -83,7 +104,14 @@ const Proyetos = () => {
             href="https://anotador-gastos-mpc.vercel.app/"
             className="proyecto-link"
           >
-            Visitar el sitio
+            Visitar sitio
+          </a>
+          <a
+            target="_blank"
+            href="https://github.com/MauricioPerezCaram/AnotadorDeGastos"
+            className="proyecto-link"
+          >
+            Visitar repositorio
           </a>
         </div>
 
@@ -101,7 +129,14 @@ const Proyetos = () => {
             href="https://conversor-monedas-two.vercel.app/"
             className="proyecto-link"
           >
-            Visitar el sitio
+            Visitar sitio
+          </a>
+          <a
+            target="_blank"
+            href="https://github.com/MauricioPerezCaram/Mobile-Conversor-Monedas"
+            className="proyecto-link"
+          >
+            Visitar repositorio
           </a>
         </div>
         <div className="proyecto-card">
@@ -118,7 +153,14 @@ const Proyetos = () => {
             href="https://to-do-app-one-omega.vercel.app/"
             className="proyecto-link"
           >
-            Visitar el sitio
+            Visitar sitio
+          </a>
+          <a
+            target="_blank"
+            href="https://github.com/MauricioPerezCaram/ToDoApp"
+            className="proyecto-link"
+          >
+            Visitar repositorio
           </a>
         </div>
       </div>
