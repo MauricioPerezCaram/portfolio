@@ -189,7 +189,6 @@ img {
 
 .logotecnologia img {
   height: 140px;
-
   width: auto;
 }
 
@@ -245,7 +244,6 @@ input[type="submit"] {
 
 .logocontacto {
   width: 100px;
-  display: flex;
 }
 
 .contenedor-contacto {
@@ -270,11 +268,19 @@ input[type="submit"] {
 .redes {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  text-align: center;
   transition: transform 0.3s ease-in-out;
 }
 
-.redes .a:hover {
+.a {
+  text-decoration: none;
+}
+
+.contactate {
+  color: #555;
+}
+
+.redes:hover {
   transform: scale(1.1);
   cursor: pointer;
 }

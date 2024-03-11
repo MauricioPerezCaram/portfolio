@@ -38,21 +38,33 @@ const Contacto = () => {
         </div>
         <div className="githublinkedin">
           <div className="redes">
-            <a href="https://github.com/MauricioPerezCaram" target="_blank">
-              Visita mi Github
+            <a
+              href="https://github.com/MauricioPerezCaram"
+              target="_blank"
+              className="a"
+            >
+              <h4 className="contactate">Visita mi Github</h4>
+              <img
+                src="/github.svg"
+                alt="logo github"
+                className="logocontacto"
+              />
             </a>
-            <img src="/github.svg" alt="logo github" className="logocontacto" />
           </div>
+
           <div className="redes">
-            <a href="https://linkedin.com/MauricioPerezCaram" target="_blank">
-              Visita mi LinkedIn
+            <a
+              href="https://www.linkedin.com/in/mauricioperezcaram/"
+              target="_blank"
+              className="a"
+            >
+              <h4 className="contactate">Visita mi LinkedIn</h4>
+              <img
+                src="/linkedin.png"
+                alt="logo linkedin"
+                className="logocontacto"
+              />
             </a>
-            <img
-              href="www.github.com/mauricioperezcaram"
-              src="/linkedin.png"
-              alt="logo linkedin"
-              className="logocontacto"
-            />
           </div>
         </div>
       </div>

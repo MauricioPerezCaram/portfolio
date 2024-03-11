@@ -6,8 +6,8 @@ const SobreMi = () => {
       <h2 className="titulos">Sobre mi</h2>
       <h5>
         ¡Hola, soy Mauri! Tengo pasión por el desarrollo de software, la
-        programación y las tecnologías, por eso decidí embarcarme en la carrera
-        de Desarrollador Full-stack.
+        programación y la tecnología, por eso decidí embarcarme en la carrera de
+        Desarrollador Full-stack.
       </h5>
       <h5>
         He aprendido desarrollo web aplicando HTML y CSS. Luego, comencé a
