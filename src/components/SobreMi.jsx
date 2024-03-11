@@ -5,7 +5,7 @@ const SobreMi = () => {
     <div id="sobremi" className="contenedor">
       <h2 className="titulos">Sobre mi</h2>
       <h5>
-        ¡Hola, soy Mauri! Tengo una pasión por el desarrollo de software, la
+        ¡Hola, soy Mauri! Tengo pasión por el desarrollo de software, la
         programación y las tecnologías, por eso decidí embarcarme en la carrera
         de Desarrollador Full-stack.
       </h5>
