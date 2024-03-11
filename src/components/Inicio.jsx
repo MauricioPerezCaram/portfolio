@@ -2,7 +2,12 @@ import React from "react";
 
 const Inicio = () => {
   return (
-    <section className="contenedor-inicio" id="inicio">
+    <section
+      className="contenedor-inicio"
+      data-aos="fade-up"
+      data-aos-duration="1000"
+      id="inicio"
+    >
       <div className="logo-inicio">
         <img src="/cs.png" alt="foto MPC" />
       </div>
