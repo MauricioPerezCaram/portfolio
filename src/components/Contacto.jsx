@@ -22,7 +22,7 @@ const Contacto = () => {
   };
 
   return (
-    <section className="contenedor">
+    <section className="contenedor" id="contacto">
       <h2 className="titulos">Contactate conmigo</h2>
       <div className="contenedor-contacto">
         <div className="formulario">

@@ -26,12 +26,12 @@ function BasicExample() {
                 Contacto
               </Nav.Link>
             </Nav>
-          </Navbar.Collapse>
-          <div className="banderitas">
-            <img src="es.png" />
+            <div className="banderitas">
+              <img src="es.png" />
 
-            <img src="gb.png" />
-          </div>
+              <img src="gb.png" />
+            </div>
+          </Navbar.Collapse>
         </div>
       </Container>
     </Navbar>
