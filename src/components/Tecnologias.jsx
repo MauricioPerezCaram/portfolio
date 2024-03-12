@@ -1,7 +1,11 @@
+import { useTranslation } from "react-i18next";
+
 const Tecnologias = () => {
+  const [t, i18n] = useTranslation("global");
+
   return (
     <section id="tecnologias" className="contenedor">
-      <h2 className="titulos">Tecnologías con las que desarrollo</h2>
+      <h2 className="titulos">{t("tecnologias.h2")}</h2>
       <div className="tecnologias">
         <div
           className="logotecnologia"

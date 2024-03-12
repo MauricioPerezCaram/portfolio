@@ -1,25 +1,14 @@
-import React from "react";
+import { useTranslation } from "react-i18next";
 
 const SobreMi = () => {
+  const [t, i18n] = useTranslation("global");
+
   return (
     <div id="sobremi" className="contenedor">
-      <h2 className="titulos">Sobre mi</h2>
-      <h5>
-        ¡Hola, soy Mauri! Tengo pasión por el desarrollo de software, la
-        programación y la tecnología, por eso decidí embarcarme en la carrera de
-        Desarrollador Full-stack.
-      </h5>
-      <h5>
-        He aprendido desarrollo web aplicando HTML y CSS. Luego, comencé a
-        estudiar JavaScript, donde logré agregar funcionalidad e interacción a
-        mis proyectos. Para completar el desarrollo Frontend, estudié React,
-        donde entendí la lógica de programar basandome en componentes.
-      </h5>
-      <h5>
-        Hoy, con muchas ganas de seguir aprendiendo, estoy estudiando desarrollo
-        Backend, donde día a día descubro la programación desde el lado del
-        servidor.
-      </h5>
+      <h2 className="titulos">{t("sobremi.titulo")}</h2>
+      <h5>{t("sobremi.p1")}</h5>
+      <h5>{t("sobremi.p2")}</h5>
+      <h5>{t("sobremi.p3")}</h5>
     </div>
   );
 };

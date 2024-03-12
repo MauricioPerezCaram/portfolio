@@ -1,0 +1,47 @@
+{
+  "navbar": {
+    "inicio": "Home",
+    "tecnologias": "Technologies",
+    "proyectos": "Proyects",
+    "sobremi": "About me",
+    "contacto": "Contact"
+  },
+
+  "inicio": {
+    "h1": "Mauricio Perez Caram",
+    "h2": "Frontend React Developer",
+    "h3": "Full Stack Developer soon"
+  },
+
+  "tecnologias": {
+    "h2": "Technologies I develop with"
+  },
+
+  "proyectos": {
+    "projects": "Projects I have worked on",
+    "apple": "Complete e-commerce using technologies like React and Firebase. The platform provides a seamless shopping experience for Apple products, with an updated catalog and features such as shopping cart and real-time order processing.",
+    "weather": "Weather application using React and Weather API. It allows you to obtain weather information from different cities. Upon entering the city name, you get precise data along with a visual representation, offering an informative and engaging experience.",
+    "snake": "A modern and attractive version of the classic Snake game using HTML, CSS, and JavaScript technologies. Immerse yourself in nostalgia as you play this iconic game, where you control a snake that grows with each piece of food you consume.",
+    "anotador": "I have created a practical expense tracking application with React and Local Storage. With this tool, you can record your daily expenses, select the payment method, and easily edit amounts and reasons for efficient financial management in your daily routine.",
+    "conversor": "Modern mobile currency conversion app crafted with React. Empowered by local storage, offers intuitive interface for convenient, swift conversions. Reliable companion for efficient, simple currency management, ensuring enhanced performance and ease of use.",
+    "todo": "Classic To-Do list application using React and Local Storage. This application allows you to manage your daily tasks, add new ones, mark them as completed, and keep your list organized, all efficiently and simply. Efficient, simple, and organized task management.",
+    "visitar": "View website",
+    "github": "View project on GitHub "
+  },
+
+  "sobremi": {
+    "titulo": "About me",
+    "p1": "Hi, I'm Mauri! I have a passion for software development, coding, and technologies, which is why I embarked on a career as a Full-stack Developer.",
+    "p2": "I have learned web development by applying HTML and CSS. Later, I began studying JavaScript, where I managed to add functionality and interaction to my projects. To complete Frontend Development, I studied React, where I learned component-based programming.",
+    "p3": "Today, with a strong desire to continue learning, I am studying Backend development, where I learn server-side programming day by day."
+  },
+
+  "contacto": {
+    "titulo": "Let's discuss your project!",
+    "nombre": "Name",
+    "email": "Email",
+    "mensaje": "Message",
+    "linkedin": "Visit my LinkedIn",
+    "github": "Visit my GitHub"
+  }
+}

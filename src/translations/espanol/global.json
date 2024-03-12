@@ -1,0 +1,47 @@
+{
+  "navbar": {
+    "inicio": "Inicio",
+    "tecnologias": "Tecnologías",
+    "proyectos": "Proyectos",
+    "sobremi": "Sobre mi",
+    "contacto": "Contacto"
+  },
+
+  "inicio": {
+    "h1": "Mauricio Perez Caram",
+    "h2": "Desarrollador Frontend React",
+    "h3": "Proximamente Desarrollador Full Stack"
+  },
+
+  "tecnologias": {
+    "h2": "Tecnologías con las que desarrollo"
+  },
+
+  "proyectos": {
+    "projects": "Proyectos en los que he trabajado",
+    "apple": "Ecommerce completo utilizando tecnologías como React y Firebase. La plataforma ofrece una experiencia de compra fluida para productos Apple, con un catálogo actualizado y funcionalidades como carrito de compras y procesamiento de pedidos en tiempo real.",
+    "weather": "Aplicación del clima utilizando React y Weather API . Permite obtener información meteorológica de distintas ciudades. Al ingresar el nombre de la ciudad, obtienes datos precisos junto con una representación visual, ofreciendo una experiencia informativa y atractiva.",
+    "snake": "Una versión moderna y atractiva del clásico juego Snake utilizando tecnologías HTML, CSS y JavaScript. Sumérgete en la nostalgia mientras juegas este icónico juego, donde controlas una serpiente que crece con cada pieza de comida que consumes.",
+    "anotador": "He creado una práctica aplicación de anotación de gastos con React y Local Storage. Con esta herramienta, puedes registrar tus gastos diarios, seleccionar el método de pago y editar montos y motivos fácilmente para una gestión financiera eficiente en tu rutina diaria.",
+    "conversor": "Aplicación para dispositivos móviles que permite la conversión de monedas. Construida con React y aprovechando el almacenamiento local, ofrece una interfaz intuitiva para realizar conversiones monetarias de manera práctica y rápida en cualquier momento.",
+    "todo": "Aplicación clásica de lista de tareas (To-Do) utilizando React y Local Storage. Esta aplicación te permite gestionar tus tareas diarias, agregar nuevas, marcarlas como completadas y mantener tu lista organizada, todo de manera eficiente y sencilla.",
+    "visitar": "Ir al sitio web",
+    "github": "Ir al repositorio en GitHub"
+  },
+
+  "sobremi": {
+    "titulo": "Sobre mi",
+    "p1": "¡Hola, soy Mauri! Tengo una pasión por el desarrollo de software, la programación y las tecnologías, por eso decidí embarcarme en la carrera de Desarrollador Full-stack.",
+    "p2": "He aprendido desarrollo web aplicando HTML y CSS. Luego, comencé a estudiar JavaScript, donde logré agregar funcionalidad e interacción a mis proyectos. Para completar el desarrollo Frontend, estudié React, donde entendí la lógica de programar basandome en componentes.",
+    "p3": "Hoy, con muchas ganas de seguir aprendiendo, estoy estudiando desarrollo Backend, donde día a día descubro la programación desde el lado del servidor."
+  },
+
+  "contacto": {
+    "titulo": "¡Hablemos de tu proyecto!",
+    "nombre": "Nombre",
+    "email": "Correo electrónico",
+    "mensaje": "Mensaje",
+    "linkedin": "Visita mi LinkedIn",
+    "github": "Visita mi GitHub"
+  }
+}
