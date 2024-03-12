@@ -1,8 +1,11 @@
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
+import { useTranslation } from "react-i18next";
 
 function BasicExample() {
+  const [t, i18n] = useTranslation("global");
+
   return (
     <Navbar expand="lg">
       <Container>
@@ -11,26 +14,29 @@ function BasicExample() {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
               <Nav.Link href="#inicio" className="item">
-                Inicio
+                {t("navbar.inicio")}
               </Nav.Link>
               <Nav.Link href="#proyectos" className="item">
-                Proyectos
+                {t("navbar.proyectos")}
               </Nav.Link>
               <Nav.Link href="#tecnologias" className="item">
-                Tecnologías
+                {t("navbar.tecnologias")}
               </Nav.Link>
               <Nav.Link href="#sobremi" className="item">
-                Sobre mi
+                {t("navbar.sobremi")}
               </Nav.Link>
               <Nav.Link href="#contacto" className="item">
-                Contacto
+                {t("navbar.contacto")}
               </Nav.Link>
             </Nav>
-            {/* <div className="banderitas">
-              <img src="es.png" />
+            <div className="banderitas">
+              <img
+                onClick={() => i18n.changeLanguage("espanol")}
+                src="es.png"
+              />
 
-              <img src="gb.png" />
-            </div> */}
+              <img onClick={() => i18n.changeLanguage("ingles")} src="gb.png" />
+            </div>
           </Navbar.Collapse>
         </div>
       </Container>
