@@ -56,7 +56,7 @@ const Tecnologias = () => {
           data-aos="fade-right"
           data-aos-delay={delays[5]}
         >
-          <img src="/public/Typescript_logo_2020.svg.png" alt="Typescript" />
+          <img src="/Typescript_logo_2020.svg.png" alt="Typescript" />
           <h4 className="tecnologiatexto">Typescript</h4>
         </div>
         <div
@@ -96,7 +96,7 @@ const Tecnologias = () => {
           data-aos="fade-right"
           data-aos-delay={delays[10]}
         >
-          <img src="/public/nestjs.jpg" alt="Nest" />
+          <img src="/nestjs.jpg" alt="Nest" />
           <h4 className="tecnologiatexto">Nest Js</h4>
         </div>
         <div
