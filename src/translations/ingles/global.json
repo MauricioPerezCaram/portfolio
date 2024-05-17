@@ -9,8 +9,7 @@
 
   "inicio": {
     "h1": "Mauricio Perez Caram",
-    "h2": "Frontend React Developer",
-    "h3": "Full Stack Developer soon"
+    "h2": "Full Stack MERN Developer"
   },
 
   "tecnologias": {
@@ -31,9 +30,9 @@
 
   "sobremi": {
     "titulo": "About me",
-    "p1": "Hi, I'm Mauri! I have a passion for software development, coding, and technologies, which is why I embarked on a career as a Full-stack Developer.",
-    "p2": "I have learned web development by applying HTML and CSS. Later, I began studying JavaScript, where I managed to add functionality and interaction to my projects. To complete Frontend Development, I studied React, where I learned component-based programming.",
-    "p3": "Today, with a strong desire to continue learning, I am studying Backend development, where I learn server-side programming day by day."
+    "p1": "Hi, I'm Mauri! I have a passion for software development, programming, and technology, which led me to pursue a career as a Full-Stack Developer.",
+    "p2": "I have learned web development using HTML and CSS, and then I studied JavaScript, where I was able to add functionality and interactivity to my projects. To complete my Frontend development skills, I studied React, understanding the logic of component-based programming.",
+    "p3": "Eager to keep learning, I have completed a Backend development course, where I discovered and delved into server-side programming. I am excited to apply and expand my knowledge in future projects."
   },
 
   "contacto": {

@@ -9,8 +9,7 @@
 
   "inicio": {
     "h1": "Mauricio Perez Caram",
-    "h2": "Desarrollador Frontend React",
-    "h3": "Proximamente Desarrollador Full Stack"
+    "h2": "Desarrollador Full Stack MERN"
   },
 
   "tecnologias": {
@@ -31,9 +30,9 @@
 
   "sobremi": {
     "titulo": "Sobre mi",
-    "p1": "¡Hola, soy Mauri! Tengo una pasión por el desarrollo de software, la programación y las tecnologías, por eso decidí embarcarme en la carrera de Desarrollador Full-stack.",
-    "p2": "He aprendido desarrollo web aplicando HTML y CSS. Luego, comencé a estudiar JavaScript, donde logré agregar funcionalidad e interacción a mis proyectos. Para completar el desarrollo Frontend, estudié React, donde entendí la lógica de programar basandome en componentes.",
-    "p3": "Hoy, con muchas ganas de seguir aprendiendo, estoy estudiando desarrollo Backend, donde día a día descubro la programación desde el lado del servidor."
+    "p1": "¡Hola, soy Mauri! Tengo una pasión por el desarrollo de software, la programación y las tecnologías, lo que me llevó a embarcarme en la carrera de Desarrollador Full-Stack.",
+    "p2": "He aprendido desarrollo web aplicando HTML y CSS, y luego estudié JavaScript, donde logré agregar funcionalidad e interactividad a mis proyectos. Para completar el desarrollo Frontend, estudié React, entendiendo la lógica de programación basada en componentes.",
+    "p3": "Con muchas ganas de seguir aprendiendo, he completado un curso de desarrollo Backend, donde descubrí y profundicé en la programación del lado del servidor. Estoy entusiasmado por aplicar y expandir mis conocimientos en proyectos futuros."
   },
 
   "contacto": {
