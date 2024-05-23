@@ -86,14 +86,6 @@ const Tecnologias = () => {
         <div
           className="logotecnologia"
           data-aos="fade-right"
-          data-aos-delay={delays[9]}
-        >
-          <img src="/docker.png" alt="Docker" />
-          <h4 className="tecnologiatexto">Docker</h4>
-        </div>
-        <div
-          className="logotecnologia"
-          data-aos="fade-right"
           data-aos-delay={delays[10]}
         >
           <img src="/nestjs.jpg" alt="Nest" />
