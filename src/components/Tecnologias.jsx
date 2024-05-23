@@ -54,14 +54,6 @@ const Tecnologias = () => {
         <div
           className="logotecnologia"
           data-aos="fade-right"
-          data-aos-delay={delays[5]}
-        >
-          <img src="/Typescript_logo_2020.svg.png" alt="Typescript" />
-          <h4 className="tecnologiatexto">Typescript</h4>
-        </div>
-        <div
-          className="logotecnologia"
-          data-aos="fade-right"
           data-aos-delay={delays[6]}
         >
           <img src="/1920px-Node.js_logo.svg.png" alt="Node Js" />
@@ -86,7 +78,7 @@ const Tecnologias = () => {
         <div
           className="logotecnologia"
           data-aos="fade-right"
-          data-aos-delay={delays[11]}
+          data-aos-delay={delays[9]}
         >
           <img src="/git.png" alt="git" />
           <h4 className="tecnologiatexto">Git</h4>
@@ -94,7 +86,7 @@ const Tecnologias = () => {
         <div
           className="logotecnologia"
           data-aos="fade-right"
-          data-aos-delay={delays[12]}
+          data-aos-delay={delays[10]}
         >
           <img src="/github.svg" alt="github" />
           <h4 className="tecnologiatexto">GitHub</h4>
